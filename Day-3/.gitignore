@@ -1,0 +1,6 @@
+# Rust
+Day-3/debug/
+Day-3/target/
+Day-3/Cargo.lock
+Day-3/**/*.rs.bk
+Day-3/*.pdb
